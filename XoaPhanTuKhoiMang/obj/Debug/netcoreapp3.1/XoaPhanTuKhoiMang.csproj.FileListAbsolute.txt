@@ -1,0 +1,12 @@
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\bin\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.exe
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\bin\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.deps.json
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\bin\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.runtimeconfig.json
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\bin\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.runtimeconfig.dev.json
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\bin\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.dll
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\bin\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.pdb
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\obj\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.AssemblyInfoInputs.cache
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\obj\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.AssemblyInfo.cs
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\obj\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.csproj.CoreCompileInputs.cache
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\obj\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.dll
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\obj\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.pdb
+E:\BT C#\XoaPhanTuKhoiMang\XoaPhanTuKhoiMang\obj\Debug\netcoreapp3.1\XoaPhanTuKhoiMang.genruntimeconfig.cache
